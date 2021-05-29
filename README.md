@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saulane
+- 👀 I’m interested in finance and new technologies
+- 🌱 I’m currently learning Rust and C/C++
+- 💞️ I’m looking to collaborate on any project that may help improve my knowledgeable 
+- 📫 How to reach me Saulane#7781 on discord
