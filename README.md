@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saulane / Simon R
-- 👀 I’m interested in finance and new technologies
+- 👋 Hi, I’m @saulane / Simon Ravé
+- 👀 I’m interested in finance and technologies
 - 🌱 I’m currently learning ReactNative and Rust
 - 💞️ I’m looking to collaborate on any project that may help improve my skills 
 - 📫 How to reach me ? Saulane#7781 on discord
