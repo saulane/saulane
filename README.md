@@ -2,4 +2,4 @@
 - 👀 I’m interested in finance and technologies
 - 🌱 I’m currently learning ReactNative and Rust
 - 💞️ I’m looking to collaborate on any project that may help improve my skills 
-- 📫 How to reach me ? Saulane#7781 on discord
+- 📫 How to reach me ? Saulane#7781 on discord or on my website https://simon-rave.com
