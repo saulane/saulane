@@ -5,4 +5,4 @@
 - 📫 How to reach me ? Saulane#7781 on discord or on my website at https://simon-rave.com
 
 (Oh and I also have linkedin)
-https://www.linkedin.com/in/simon-r-075517197/
+https://www.linkedin.com/in/simonrave
