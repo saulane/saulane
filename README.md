@@ -4,3 +4,4 @@
 
 (Oh and I also have linkedin)
 https://www.linkedin.com/in/simonrave
+Open to work
